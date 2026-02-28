@@ -11,14 +11,21 @@
 body {
     font-family: 'Inter', sans-serif;
     min-height: 100vh;
-    background: linear-gradient(135deg, #4B2C82, #6A3FC9, #9D6CFF, #E0D4FF,#FFFFFF);
-}
+   background: linear-gradient(
+        135deg,
+        #EAF6FF,
+        #D4EEFF,
+        #A8D8FF,
+        #6EC1FF,
+        #3BA6F5
+    );
+}    
 
 main {
     width: 85%;
     max-width: 900px;
     line-height: 1.6;
-    background: #E8EEFF;
+    background: ##3A6486;
     padding: 50px;      /* espaço interno */
     border-radius:  15px;
     margin: 60px auto;
